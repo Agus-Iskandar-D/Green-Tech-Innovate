@@ -4,6 +4,7 @@
 ---
 ### Intro to Green Home Technology Berbasis AI: Solusi Rumah Ramah Lingkungan di Era Modern
 ---
+
 Green Home Technology adalah konsep rumah ramah lingkungan yang memanfaatkan teknologi untuk mengurangi konsumsi energi, emisi karbon, dan limbah. Dengan bantuan Artificial Intelligence (AI), rumah kini dapat menjadi lebih efisien, cerdas, dan berkelanjutan.
 
 AI berperan dalam otomatisasi rumah—seperti mengatur suhu, pencahayaan, dan konsumsi energi berdasarkan kebiasaan penghuni. Teknologi ini juga memprediksi kebutuhan energi, memantau kualitas udara, dan mengelola sistem daur ulang serta irigasi secara efisien.
