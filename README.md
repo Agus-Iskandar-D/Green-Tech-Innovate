@@ -18,6 +18,7 @@ konten by chatGPT
 ---
 Green Home Technology Solution Sederhana untuk Menghitung Konsumi Daya Listrik dan Merekomendasikan Tindakan 
 
+'''bash
 print("Selamat datang di GreenHome Solutions!")
 print("Kami akan membantu Anda menemukan solusi energi ramah lingkungan.")
 
