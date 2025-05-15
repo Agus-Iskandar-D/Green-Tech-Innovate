@@ -1,5 +1,7 @@
 # Green-Tech-Innovate
+
 Kumpulan jawaban tugas-tugas Stage 1 Eco Techno Leader Boothcamp
+
 ---
 ## Green Home Technology Solutions
 ---
@@ -16,6 +18,7 @@ Secara global, perangkat seperti Nest Thermostat, Tesla Powerwall, dan Rachio Sm
 Dengan semakin terjangkaunya teknologi ini, AI dalam Green Home menjadi solusi nyata bagi masa depan perumahan yang ramah lingkungan di Indonesia dan dunia.
 
 konten by chatGPT
+
 ---
 Green Home Technology Solution Sederhana untuk Menghitung Konsumi Daya Listrik dan Merekomendasikan Tindakan 
 
