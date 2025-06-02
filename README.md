@@ -22,6 +22,5 @@ konten by chatGPT
 ---
 Green Home Technology Solution Sederhana untuk Menghitung Konsumi Daya Listrik dan Merekomendasikan Tindakan 
 
-'''bash
-
+https://github.com/Agus-Iskandar-D/Green-Tech-Innovate/blob/main/greenhome.py
 
