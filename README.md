@@ -23,17 +23,5 @@ konten by chatGPT
 Green Home Technology Solution Sederhana untuk Menghitung Konsumi Daya Listrik dan Merekomendasikan Tindakan 
 
 '''bash
-print("Selamat datang di GreenHome Solutions!")
-print("Kami akan membantu Anda menemukan solusi energi ramah lingkungan.")
 
-jumlah_perangkat = int(input("Masukkan jumlah perangkat listrik di rumah Anda: "))
-print("Jumlah perangkat listrik Anda:", jumlah_perangkat)
-
-energi_per_perangkat = 0.5  # kWh per hari
-total_energi = jumlah_perangkat * energi_per_perangkat
-print("Kebutuhan energi harian Anda:", total_energi, "kWh")
-
-print("Saran: Gunakan panel surya untuk memenuhi kebutuhan energi Anda dan hemat biaya!")
-print("Terima kasih telah memilih solusi ramah lingkungan bersama GreenHome Solutions!")
-print("Matikan perangkat saat tidak digunakan untuk hemat energi!")
 
