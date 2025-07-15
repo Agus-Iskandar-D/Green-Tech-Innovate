@@ -1,5 +1,7 @@
 # Green-Tech-Innovate
 
+ Green-Home-Technology-Solutions
+
 Kumpulan jawaban tugas-tugas Stage 1 Eco Techno Leader Boothcamp
 
 ---
@@ -7,7 +9,12 @@ Kumpulan jawaban tugas-tugas Stage 1 Eco Techno Leader Boothcamp
 ---
 ### Intro to Green Home Technology Berbasis AI: Solusi Rumah Ramah Lingkungan di Era Modern
 ---
+
+!(https://github.com/Agus-Iskandar-D/Green-Tech-Innovate/blob/Green-Home-Technology-Solutions/Green%20Home%20Technology.png)
+
+
 ![green home](https://github.com/Agus-Iskandar-D/Green-Tech-Innovate/blob/Green-Home-Technology-Solutions/Green%20Home%20Technology.png)
+
 
 Green Home Technology adalah konsep rumah ramah lingkungan yang memanfaatkan teknologi untuk mengurangi konsumsi energi, emisi karbon, dan limbah. Dengan bantuan Artificial Intelligence (AI), rumah kini dapat menjadi lebih efisien, cerdas, dan berkelanjutan.
 
@@ -18,6 +25,12 @@ Secara global, perangkat seperti Nest Thermostat, Tesla Powerwall, dan Rachio Sm
 Dengan semakin terjangkaunya teknologi ini, AI dalam Green Home menjadi solusi nyata bagi masa depan perumahan yang ramah lingkungan di Indonesia dan dunia.
 
 konten by chatGPT
+
+Green-Home-Technology-Solutions
+
+
+Green Home Technology Solution Sederhana untuk Menghitung Konsumi Daya Listrik dan Merekomendasikan Tindakan 
+
 
 ---
 Green Home Technology Solution Sederhana untuk Menghitung Konsumi Daya Listrik dan Merekomendasikan Tindakan 
